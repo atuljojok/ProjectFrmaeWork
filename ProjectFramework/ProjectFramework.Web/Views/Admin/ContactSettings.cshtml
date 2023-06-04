@@ -1,0 +1,39 @@
+﻿@model ContactViewModel
+@{
+    ViewData["Title"] = " ContactSettings";
+}
+
+<div class="panel panel-primary">
+    <div class="panel-heading"><h4>Configure Contact Settings</h4></div>
+    <div class="panel-body">
+        <form method="post" enctype="multipart/form-data" asp-controller="Admin" asp-action="ContactSettings">
+            <div class="container">
+
+                <div class="form-group">
+                    <label for="txtAppName">Company Name:</label><br />
+                    <input type="text" id="txtCoName" class="form-control" value="@Model.CoName" name="CoName" />
+
+                </div>
+                <div class="form-group">
+                    <label for="txAdres">Adress:</label><br />
+                    <input type="text" id="txAdress" class="form-control" value="@Model.Adress" name="Adress" />
+                </div>
+                <div class="form-group">
+                    <label for="txweburl">Web Url:</label><br />
+                    <input id="txweb" class="form-control"  value ="@Model.Web"name="Web"/>
+                </div>
+                <div class="form-group">
+
+                    <label for="txNumber">Contact Number:</label><br />
+                    <input id="txweb" class="form-control" name="Number"  value="@Model.Number"/>
+
+                </div>
+                <input type="submit" value="Update" class="btn btn-primary" /><br /><br />
+                <label> @Model.StatusString </label> 
+
+            </div>
+        </form>
+    </div>
+</div>
+
+

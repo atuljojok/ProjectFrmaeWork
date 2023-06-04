@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/+cz2//BFbyN2AztgP/AuIuVyyGG8pka2EaAfsOsdoyt93+VeOlecYC1xe1keut0g0QqdAn6kJ7hTCzgpp8tSA==",
+  "success": true,
+  "projectFilePath": "D:\\ProjectFramework\\ProjectFrameworkCommonLib\\ProjectFrameworkCommonLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atul\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\atul\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

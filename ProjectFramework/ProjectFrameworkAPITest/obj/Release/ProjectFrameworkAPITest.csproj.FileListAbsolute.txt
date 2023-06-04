@@ -1,0 +1,16 @@
+E:\C++ Sample\ProjectFramework\ProjectFrameworkAPITest\bin\Release\ProjectFrameworkAPITest.exe.config
+E:\C++ Sample\ProjectFramework\ProjectFrameworkAPITest\bin\Release\ProjectFrameworkAPITest.exe
+E:\C++ Sample\ProjectFramework\ProjectFrameworkAPITest\bin\Release\ProjectFrameworkAPITest.pdb
+E:\C++ Sample\ProjectFramework\ProjectFrameworkAPITest\bin\Release\Newtonsoft.Json.dll
+E:\C++ Sample\ProjectFramework\ProjectFrameworkAPITest\bin\Release\ProjectFrameworkCommonLib.dll
+E:\C++ Sample\ProjectFramework\ProjectFrameworkAPITest\bin\Release\netstandard.dll
+E:\C++ Sample\ProjectFramework\ProjectFrameworkAPITest\bin\Release\Newtonsoft.Json.xml
+E:\C++ Sample\ProjectFramework\ProjectFrameworkAPITest\bin\Release\ProjectFrameworkCommonLib.pdb
+E:\C++ Sample\ProjectFramework\ProjectFrameworkAPITest\obj\Release\ProjectFrameworkAPITest.csproj.AssemblyReference.cache
+E:\C++ Sample\ProjectFramework\ProjectFrameworkAPITest\obj\Release\ProjectFrameworkAPITest.ProjectFrameworkForm.resources
+E:\C++ Sample\ProjectFramework\ProjectFrameworkAPITest\obj\Release\ProjectFrameworkAPITest.Properties.Resources.resources
+E:\C++ Sample\ProjectFramework\ProjectFrameworkAPITest\obj\Release\ProjectFrameworkAPITest.csproj.GenerateResource.cache
+E:\C++ Sample\ProjectFramework\ProjectFrameworkAPITest\obj\Release\ProjectFrameworkAPITest.csproj.CoreCompileInputs.cache
+E:\C++ Sample\ProjectFramework\ProjectFrameworkAPITest\obj\Release\ProjectFrameworkAPITest.csproj.CopyComplete
+E:\C++ Sample\ProjectFramework\ProjectFrameworkAPITest\obj\Release\ProjectFrameworkAPITest.exe
+E:\C++ Sample\ProjectFramework\ProjectFrameworkAPITest\obj\Release\ProjectFrameworkAPITest.pdb

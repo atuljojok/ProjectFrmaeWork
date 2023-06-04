@@ -1,0 +1,10 @@
+E:\C++ Sample\ProjectFramework\ProjectFrameworkCommonLib\bin\Release\netstandard2.0\ProjectFrameworkCommonLib.deps.json
+E:\C++ Sample\ProjectFramework\ProjectFrameworkCommonLib\bin\Release\netstandard2.0\ProjectFrameworkCommonLib.dll
+E:\C++ Sample\ProjectFramework\ProjectFrameworkCommonLib\bin\Release\netstandard2.0\ProjectFrameworkCommonLib.pdb
+E:\C++ Sample\ProjectFramework\ProjectFrameworkCommonLib\obj\Release\netstandard2.0\ProjectFrameworkCommonLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\C++ Sample\ProjectFramework\ProjectFrameworkCommonLib\obj\Release\netstandard2.0\ProjectFrameworkCommonLib.AssemblyInfoInputs.cache
+E:\C++ Sample\ProjectFramework\ProjectFrameworkCommonLib\obj\Release\netstandard2.0\ProjectFrameworkCommonLib.AssemblyInfo.cs
+E:\C++ Sample\ProjectFramework\ProjectFrameworkCommonLib\obj\Release\netstandard2.0\ProjectFrameworkCommonLib.csproj.CoreCompileInputs.cache
+E:\C++ Sample\ProjectFramework\ProjectFrameworkCommonLib\obj\Release\netstandard2.0\ProjectFrameworkCommonLib.dll
+E:\C++ Sample\ProjectFramework\ProjectFrameworkCommonLib\obj\Release\netstandard2.0\ProjectFrameworkCommonLib.pdb
+E:\C++ Sample\ProjectFramework\ProjectFrameworkCommonLib\obj\Release\netstandard2.0\ProjectFrameworkCommonLib.csproj.AssemblyReference.cache

@@ -1,0 +1,21 @@
+﻿@model ContactViewModel
+@{ 
+    ViewData["Title"] = "Contact";
+}
+<div  class="shadow-lg">
+    <div >
+        <h1 class="text-center">
+            Contact Us
+
+        </h1>
+    </div>
+    <div class="ml-4 mb-3 mt-4">
+        <h2>@Model.CoName</h2>
+        <p> @Model.Adress</p>
+       
+
+        <p>@Model.Web </p>
+        <p> Contact:@Model.Number</p>
+    </div>
+</div>
+
